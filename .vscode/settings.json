@@ -1,4 +1,4 @@
 {
     "ai.azureml.defaultWorkspaceId": "/subscriptions/4f8ec9a7-9557-4ef9-90a3-5f29eb46091d/resourceGroups/dp100-RG/providers/Microsoft.MachineLearningServices/workspaces/dp100-WS",
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "remote"
 }
